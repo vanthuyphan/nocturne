@@ -1,0 +1,14 @@
+siteTitle = "Blog by Van Phan"
+siteDescr = "That's classic!"
+siteAuthor = "Van Phan"
+
+siteTelegramUrl = "#"
+siteTwitterUrl = "#"
+siteGithubUrl = "#"
+siteEmailUrl = "#"
+siteRssUrl = "#"
+siteVkUrl = "#"
+
+googleAnalyticsId = ""
+
+linkPrefix = "/gatsby-starter-lumen"
