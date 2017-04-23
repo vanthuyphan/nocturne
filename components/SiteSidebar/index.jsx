@@ -5,7 +5,6 @@ import { config } from 'config';
 import SiteNav from '../SiteNav';
 import SiteLinks from '../SiteLinks';
 import './style.css';
-import profilePic from '../../pages/photo.jpg';
 
 class SiteSidebar extends React.Component {
   render() {
@@ -17,7 +16,7 @@ class SiteSidebar extends React.Component {
       <header>
         <Link style={{ textDecoration: 'none', borderBottom: 'none', outline: 'none' }} to={prefixLink('/')}>
           <img
-            src={profilePic}
+            src="https://pbs.twimg.com/profile_images/681579053338394624/8UZsho0J.jpg"
             width="75" height="75"
             alt="Profile picture of the author"
           />
